@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Traject.io</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css" />
+</head>
+<body>
+    <div id="loadingWrapper">
+        <img id="loading" src="loading.svg" alt="Loading Traject.io ...">
+    </div>
+    <div id="gameAreaWrapper" style="display:none;">
+        <canvas tabindex="0" id="cvs"></canvas>
+    </div>
+    <div id="startMenuWrapper">
+        <div id="startMenu">
+            <p>Press to shoot</p>
+            <input type="text" tabindex="0" autofocus placeholder="Nick name" id="playerNameInput" />
+            <b class="gameover">Game over! Try again?</b>
+            <br />
+            <button id="startButton">Play</button>
+        </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+</html>

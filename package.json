@@ -1,0 +1,15 @@
+{
+  "name": "TrajectIO",
+  "version": "1.0.0",
+  "description": "An experimental game where cells are players and the aim is to grow as huge as possible",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "Jake Waitze",
+  "dependencies": {
+    "express": "^4.13.0",
+    "socket.io": "^1.3.5"
+  }
+}

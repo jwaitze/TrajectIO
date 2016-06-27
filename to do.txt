@@ -1,0 +1,7 @@
+larger grid, smaller view ?
+quadtree for collisions ?
+perhaps add elastic collision for knocking of your own ejected mass
+online/io/server/client code
+draw leaderboard
+display names?
+make a function to find the proper spawn coordinates, away from other existing objects of certain types
