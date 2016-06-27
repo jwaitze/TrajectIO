@@ -1,8 +1,10 @@
 # TrajectIO
 
+This is an experimental game I've been working on recently. It's a cell-based game, much like AgarIO and SlitherIO, but it is unique in its own ways. The multi-player version of TrajectIO is not near completion, even though some of the client-server communication logic is coded.
+
 http://traject.io/
 
-This is an experimental game I've been working on recently. It's a cell-based game, much like AgarIO and SlitherIO, but it is unique in its own ways. The multi-player version of TrajectIO is not near completion, even though some of the client-server communication logic is coded.
+A client-side-only version of this app is available at the above link. Feel free to take a gander.
 
 
 ## Pre-requisites
