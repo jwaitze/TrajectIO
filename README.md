@@ -32,3 +32,6 @@ This game is experimental and not completed yet. If you want to try this game, I
 
 Alternatively, I have exactly that set up at http://traject.io/ if you would rather take a look there.
 
+## Note:
+
+If you try it, be sure to have the window at a reasonable size for the client-side-only version, so that the objects have room to move around at scale.
